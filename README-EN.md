@@ -6,7 +6,7 @@
 [![Español](https://img.shields.io/badge/🇪🇸_Idioma-Español-red?style=for-the-badge)](README.md)
 [![English](https://img.shields.io/badge/🇺🇸_Language-English-blue?style=for-the-badge)](README-EN.md)
 
-![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Full+Stack+Developer+%F0%9F%9A%80;Meteorological+Engineer+%F0%9F%8C%A6%EF%B8%8F;Automation+Specialist+%F0%9F%A4%96;Web+Solutions+Creator+%F0%9F%8C%90;Tech+Innovator+%E2%9A%A1)
+![Typing SVG](https://readme-typing-svg.herokuapp.com?font=Fira+Code&weight=600&size=28&duration=4000&pause=1000&color=00D9FF&center=true&vCenter=true&width=600&lines=Meteorological+Engineer+%F0%9F%8C%A6%EF%B8%8F;Climate+Risk+and+Remote+Sensing+%F0%9F%9B%B0%EF%B8%8F;Process+Automation+%F0%9F%A4%96;Meteorological+Data+Systems+%F0%9F%8C%90)
 
 <img src="https://user-images.githubusercontent.com/74038190/225813708-98b745f2-7d22-48cf-9150-083f1b00d6c9.gif" width="500">
 
@@ -23,8 +23,8 @@
 ```python
 class NaasonPerezRojas:
     def __init__(self):
-        self.profession = ["Full Stack Developer", "Meteorological Engineer"]
-        self.passion = "Automatizations & Web Development"
+        self.profession = ["Meteorological Engineer", "Climate Risk & Remote Sensing"]
+        self.passion = "Automation & Web Development"
         self.current_focus = "Climate Data + Modern Tech"
         self.fun_fact = "I turn weather patterns into code patterns! 🌪️💻"
     
@@ -34,6 +34,9 @@ class NaasonPerezRojas:
             "databases": ["SQL", "PostgreSQL"],
             "hardware": ["Arduino", "IoT Sensors"],
             "automation": ["n8n", "MCP", "Custom Scripts"],
+            "geospatial": ["ArcGIS Pro", "QGIS", "Google Earth Engine", "Sentinel-2", "PlanetScope"],
+            "climate_data": ["CHIRPS", "ERA5", "SENAMHI", "HEC-RAS"],
+            "cloud_iot": ["AWS", "Azure", "Power BI", "Power Automate", "Flutter", "Raspberry Pi"],
             "meteorology": ["GrADS", "ArcGIS", "WRF Model", "Satellite Imagery", "Climate Modeling"],
             "devops": ["Docker", "Git/GitHub"],
             "specialty": "Weather Data Analysis + Web Solutions"
@@ -145,16 +148,18 @@ class NaasonPerezRojas:
 
 ## 🚀 **Featured Projects**
 
+> Professional work: general description only. Details at [naasonperez.com](https://naasonperez.com/#projects).
+
+- 🚨 **Maps and alerts from weather advisories** — Python, Flask, GeoPandas, PostgreSQL, n8n, Docker
+- 📸 **Claims assessment with georeferenced photos** (pilot) — JavaScript, Cloudflare Workers, CHIRPS
+- ☕ **Parametric insurance: coffee (Jaén, San Ignacio) and alpaca (Puno)** (in development) — CHIRPS, ERA5, Sentinel-2
+- ☀️ **INTIUV+ · UV monitoring** — Arduino, Python, SQL; installed at UNALM
+- 🌧️ **Precipitation downscaling (Quantile Mapping) and HEC-RAS 2D flood maps** — course projects
+- 🌪️ **Regional forecast with WRF** (in development)
+
 <div align="center">
 
-### 🔥 **Automation Portfolio**
-[![Portfolio](https://img.shields.io/badge/View_Automations-FF6B6B?style=for-the-badge&logo=github&logoColor=white)](https://github.com/solitarioo1)
-
-### 🌐 **Web Projects Developed**
-[![Web Projects](https://img.shields.io/badge/Web_Projects-4ECDC4?style=for-the-badge&logo=internetexplorer&logoColor=white)](https://github.com/solitarioo1)
-
-### 🌡️ **Meteorological Tools**
-[![Weather Tools](https://img.shields.io/badge/Weather_Tools-45B7D1?style=for-the-badge&logo=cloudflare&logoColor=white)](https://github.com/solitarioo1)
+[![View projects](https://img.shields.io/badge/View_Projects-FF6B6B?style=for-the-badge&logo=firefox&logoColor=white)](https://naasonperez.com/#projects)
 
 </div>
 
@@ -173,7 +178,7 @@ class NaasonPerezRojas:
 <a href="https://github.com/solitarioo1" target="_blank">
 <img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/>
 </a>
-<a href="https://github.com/solitarioo1" target="_blank">
+<a href="https://naasonperez.com" target="_blank">
 <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/>
 </a>
 
@@ -198,9 +203,6 @@ class NaasonPerezRojas:
 ## 📊 **Recent Activity**
 
 <div align="center">
-
-<!--START_SECTION:activity-->
-<!--END_SECTION:activity-->
 
 [![Naason's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solitarioo1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
 
