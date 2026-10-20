@@ -201,16 +201,6 @@ class NaasonPerezRojas:
 
 ---
 
-## 📊 **Actividad Reciente**
-
-<div align="center">
-
-[![Naason's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=solitarioo1&theme=tokyo-night)](https://github.com/ashutosh00710/github-readme-activity-graph)
-
-</div>
-
----
-
 <div align="center">
 
 ### 🚀 **¿Listo para colaborar en algo increíble?**
@@ -221,7 +211,6 @@ class NaasonPerezRojas:
 
 ---
 
-![Profile Views](https://komarev.com/ghpvc/?username=solitarioo1&color=blueviolet&style=for-the-badge)
 ![Followers](https://img.shields.io/github/followers/solitarioo1?style=for-the-badge&color=blue)
 
 **⭐ Si te gusta mi trabajo, ¡no olvides darle una estrella a mis repositorios! ⭐**
